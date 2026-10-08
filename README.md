@@ -17,4 +17,4 @@ I build AI-powered applications, from REST APIs and databases to RAG pipelines a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/kanishkpandey-ai) · [Email](mailto:kanishkpandey593@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kanishk-pandey-ai) · [Email](mailto:kanishkpandey593@gmail.com)
